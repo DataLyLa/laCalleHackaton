@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33ce69e8.css",
+    "main.js": "/static/js/main.ab65c782.js",
+    "static/media/logoLove.png": "/static/media/logoLove.5285e6b6d7ff7966356f.png",
+    "static/media/Logo.png": "/static/media/Logo.bb8fee065782f7ed7bad.png",
+    "static/media/orion-nebula-gdf424e7fa_640.jpg": "/static/media/orion-nebula-gdf424e7fa_640.d15e6c7d73ebf620068b.jpg",
+    "static/media/venus.png": "/static/media/venus.966ad48bc2e6e81bd53f.png",
+    "index.html": "/index.html",
+    "main.33ce69e8.css.map": "/static/css/main.33ce69e8.css.map",
+    "main.ab65c782.js.map": "/static/js/main.ab65c782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ce69e8.css",
+    "static/js/main.ab65c782.js"
+  ]
+}
